@@ -2,6 +2,8 @@
 *.iml
 .DS_STORE
 js/keys.js
-js/study.js
 js/skycons.js
-practice-assessment.html
+
+public/main.js
+*.map
+node_modules
