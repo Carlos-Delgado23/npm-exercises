@@ -1,8 +1,14 @@
-let sayHello = () => 'hello';
+import {msg} from "./say-hello.js";
 
-console.log(sayHello());
+console.log(msg());
 
-const $ = require('jquery');
 
-$('h1').css('background', 'red');
-$('p').css('background', 'yellow');
+// let sayHello = () => 'hello';
+//
+// console.log(sayHello());
+
+// const $ = require('jquery');
+// //
+// // $('h1').css('background', 'red');
+// // $('p').css('background', 'yellow');
+
